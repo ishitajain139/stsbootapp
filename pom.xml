@@ -19,7 +19,6 @@
     </properties>
          
 <packaging>war</packaging>
-<packaging>ear</packaging>
          
     <dependencies>
         <!-- Spring Boot Web Starter -->
